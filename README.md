@@ -1,0 +1,2 @@
+# Bengali Sign Language Recognition using Deep Learning
+ We developed a system with 3 Deep Learning models to help the Bangla language speaking deaf and mute community. The system recognizes Bangla words from static gestures and presents the equivalent text output of the sign language for that word. With the help of deep Convolutional neural networks and pre-trained models we achieved recognition of different Bangla Sign Language gestures.
